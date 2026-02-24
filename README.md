@@ -1,6 +1,5 @@
 # 🎮 Hangman Game (Python)
 
-Hi! 👋  
 This is a simple console-based Hangman Game built using Python.  
 The game randomly selects a word and the player has to guess it one letter at a time.
 ---
